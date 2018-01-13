@@ -1,0 +1,36 @@
+body {
+    background-color: #4caf507d;
+}
+
+form {
+    padding: 30px;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form * {
+    margin: 20px;
+}
+
+.users {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	color: white;
+	padding: 2px;
+	margin: 20px;
+}
+
+.users img {
+	margin: auto;
+	text-align: center;
+}
+
+.users a {
+	color: white;
+	text-decoration-style: none;
+	text-decoration: none;
+	padding: 10px;
+}
+
